@@ -1,0 +1,4 @@
+source 'https://github.com/CocoaPods/Specs.git'
+target "GoogleMaps_API" do 
+	pod 'GoogleMaps'
+end
